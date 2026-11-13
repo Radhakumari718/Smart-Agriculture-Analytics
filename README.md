@@ -69,3 +69,25 @@ Random Forest was evaluated separately for banana yield classification.
 - Execution Time: 0.36 seconds
 
 Note: Classification and clustering solve different tasks, so their scores are not directly compared.
+
+## Project Visualizations
+
+### Random Forest Evaluation
+![Random Forest Metrics](results/visualizations/random_forest_metrics.png)
+
+### Confusion Matrix
+![Confusion Matrix](results/visualizations/confusion_matrix.png)
+
+### Clustering Comparison
+![Silhouette Comparison](results/visualizations/silhouette_comparison.png)
+
+![Davies-Bouldin Comparison](results/visualizations/davies_bouldin_comparison.png)
+
+### Cluster Distribution
+![Cluster Distribution](results/visualizations/cluster_distribution.png)
+
+### Top 10 Crops
+![Top 10 Crops](results/visualizations/top_10_crops.png)
+
+### Geographic Distribution
+![Geographic Distribution](results/visualizations/geographic_distribution.png)
