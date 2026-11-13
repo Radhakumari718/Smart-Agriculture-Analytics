@@ -3,4 +3,4 @@ Clusters: 3
 Silhouette Score: 0.2099
 Davies-Bouldin Index: 1.8094
 Fuzzy Partition Coefficient: 0.5541
-Execution Time: 2.59 seconds
+Execution Time: 2.32 seconds
