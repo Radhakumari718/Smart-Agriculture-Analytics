@@ -1,0 +1,5 @@
+Algorithm: K-Means
+Clusters: 3
+Silhouette Score: 0.7446
+Davies-Bouldin Index: 1.3491
+Execution Time: 1.24 seconds

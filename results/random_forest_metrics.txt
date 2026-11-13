@@ -1,0 +1,9 @@
+Algorithm: Random Forest
+Target: Banana Yield Category
+Training Records: 784
+Testing Records: 197
+Accuracy: 0.7970
+Precision: 0.7988
+Recall: 0.7970
+F1 Score: 0.7962
+Execution Time: 0.36 seconds
